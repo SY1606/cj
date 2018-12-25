@@ -1,0 +1,1 @@
+include ':app', ':yuekao2', ':yuekao3', ':yuekao6', ':yuekao7', ':yuekao8', ':yuekao9'
